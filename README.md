@@ -28,4 +28,14 @@ Sood, Gaurav, and Shanto Iyengar. 2018. All in the Eye of the Beholder: Asymmetr
 
 <!-- adjacent:start -->
 
+## 🔗 Adjacent Repositories
+
+- [soodoku/partisan_broadband](https://github.com/soodoku/partisan_broadband) — Replication materials for The Hostile Audience: broadband access and partisan affect \(AJPS 2017\)
+- [soodoku/partisan_heads](https://github.com/soodoku/partisan_heads) — Replication Materials for "The Parties in our Heads: Misperceptions About Party Composition and Their Consequences"
+- [soodoku/kirkuk](https://github.com/soodoku/kirkuk) — Data and scripts behind the paper "What Future For Kirkuk?"
+- [soodoku/partisan_scandal](https://github.com/soodoku/partisan_scandal) — Partisan Scandals
+- [soodoku/speech-learn](https://github.com/soodoku/speech-learn) — Modeling Relationship Between Congressional Speech and Ideology
+
+_Powered by [Adjacent](https://github.com/gojiplus/adjacent)_
+
 <!-- adjacent:end -->
