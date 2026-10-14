@@ -25,3 +25,7 @@
 ### Suggested Citation
 
 Sood, Gaurav, and Shanto Iyengar. 2018. All in the Eye of the Beholder: Asymmetry in Ideological Accountability. In The Feeling, Thinking Citizen: Essays in Honor of Milton Lodge. Edited by Howard Lavine and Charles S. Taber. Routledge.
+
+<!-- adjacent:start -->
+
+<!-- adjacent:end -->
